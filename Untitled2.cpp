@@ -1,4 +1,4 @@
-// 		FIND NUMBERS OF NUMBER
+// 		FIND NUMBER OF NUMBERS
 #include<iostream>
 using namespace std;
 int num(int a[],int n,int k);
